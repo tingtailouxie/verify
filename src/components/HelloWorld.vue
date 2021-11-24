@@ -3,15 +3,15 @@
  * @Mail: xinlai@bosssoft.com.cn
  * @Date: 2021-11-24 15:48:13
  * @LastEditors: Comer
- * @LastEditTime: 2021-11-24 17:18:28
- * @Description: 
+ * @LastEditTime: 2021-11-24 17:28:31
+ * @Description: 23
 -->
 <template>
   <div class="hello">
     1234567890
+    xietingting
   </div>
 </template>
-
 <script>
 export default {
   name: 'HelloWorld',

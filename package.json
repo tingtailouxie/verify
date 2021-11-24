@@ -24,10 +24,10 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS"
-    }
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $HUAKY_GET_PARAMS"
+    }
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
