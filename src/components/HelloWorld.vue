@@ -3,13 +3,14 @@
  * @Mail: xinlai@bosssoft.com.cn
  * @Date: 2021-11-24 15:48:13
  * @LastEditors: Comer
- * @LastEditTime: 2021-11-24 17:28:31
+ * @LastEditTime: 2021-11-24 17:33:44
  * @Description: 23
 -->
 <template>
   <div class="hello">
     1234567890
     xietingting
+    测试git错误提醒是否好用
   </div>
 </template>
 <script>
