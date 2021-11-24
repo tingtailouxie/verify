@@ -3,7 +3,7 @@
  * @Mail: xinlai@bosssoft.com.cn
  * @Date: 2021-11-24 15:48:13
  * @LastEditors: Comer
- * @LastEditTime: 2021-11-24 17:33:44
+ * @LastEditTime: 2021-11-24 17:35:10
  * @Description: 23
 -->
 <template>
@@ -11,6 +11,7 @@
     1234567890
     xietingting
     测试git错误提醒是否好用
+    查看是否生成新的日志
   </div>
 </template>
 <script>
